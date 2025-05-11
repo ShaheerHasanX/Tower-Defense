@@ -21,7 +21,7 @@ Welcome to **Tower Defense**, a desktop strategy game developed in **C++** using
 - ✅ **Fully interactive GUI** using Qt Widgets  
 - ✅ **Multiple tower types** 
 - ✅ **Progressive difficulty** with wave mechanics  
-- ✅ **In-game economy**: earn coins, upgrade towers  
+- ✅ **In-game economy**: earn coins, place towers  
 - ✅ **Drag-and-drop** tower placement system  
 - ✅ **Real-time game stats display** (health, coins, score)  
 - ✅ **Sound effects** for gameplay
