@@ -10,10 +10,7 @@ Welcome to **Tower Defense**, a desktop strategy game developed in **C++** using
 - [Gameplay Overview](#gameplay-overview)
 - [Screenshots](#screenshots)
 - [Tech Stack](#tech-stack)
-- [Installation & Setup](#installation--setup)
 - [File Structure](#file-structure)
-- [Contributing](#contributing)
-- [Future Improvements](#future-improvements)
 - [License](#license)
 - [Contact](#contact)
 
