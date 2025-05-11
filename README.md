@@ -22,24 +22,23 @@ Welcome to **Tower Defense**, a desktop strategy game developed in **C++** using
 ## ✨ Features
 
 - ✅ **Fully interactive GUI** using Qt Widgets  
-- ✅ **Multiple tower types** (e.g., Basic, Sniper, Slow)  
-- ✅ **Different enemy types** with unique abilities  
+- ✅ **Multiple tower types** 
 - ✅ **Progressive difficulty** with wave mechanics  
 - ✅ **In-game economy**: earn coins, upgrade towers  
 - ✅ **Drag-and-drop** tower placement system  
 - ✅ **Real-time game stats display** (health, coins, score)  
-- ✅ **Sound effects** for towers, attacks, and game events  
+- ✅ **Sound effects** for gameplay
 - ✅ **Smooth animations** for enemy movement and combat  
 
 ---
 
 ## 🎮 Gameplay Overview
 
-**Objective**: Defend your base from enemy waves by placing and upgrading towers along a designated path.
+**Objective**: Defend your base from enemy waves by placing towers along a designated path.
 
 ### 📏 Rules
 
-- Towers cost coins to place and upgrade.
+- Towers cost coins to place.
 - Each enemy killed earns you coins.
 - Enemies move along a fixed path; if they reach the base, you lose health.
 - Game ends in **victory** if you survive all waves; **defeat** if your health drops to 0.
@@ -74,11 +73,11 @@ For questions or feedback, feel free to reach out:
 
 ## 🖼️ Screenshots
 
-You can embed screenshots or gameplay GIFs here:
 
 ```markdown
 ![Main Menu](assets/images/screenshots/main_menu.jpg)
 ![Gameplay](assets/images/screenshots/gameplay.jpg)
+![Winning](assets/images/screenshots/winning.jpg)
 ![Losing](assets/images/screenshots/losing.jpg)
 
 
