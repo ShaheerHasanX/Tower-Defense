@@ -74,7 +74,6 @@ For questions or feedback, feel free to reach out:
 ## 🖼️ Screenshots
 
 
-markdown
 ![Main Menu](assets/images/screenshots/main_menu.jpg)
 ![Gameplay](assets/images/screenshots/gameplay.jpg)
 ![Winning](assets/images/screenshots/winning.jpg)
