@@ -67,7 +67,7 @@ Welcome to **Tower Defense**, a desktop strategy game developed in **C++** using
 
 For questions or feedback, feel free to reach out:
 
-📧 [shaheerhasanx@example.com](mailto:shaheerhasanx@example.com)
+📧 [shaheerhasanx@gmail.com](mailto:shaheerhasanx@gmail.com)
 
 ## 🖼️ Screenshots
 
