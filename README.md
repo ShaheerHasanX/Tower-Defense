@@ -77,9 +77,9 @@ For questions or feedback, feel free to reach out:
 You can embed screenshots or gameplay GIFs here:
 
 ```markdown
-![Main Menu](assets/images/screenshots/main_menu.png)
-![Gameplay](assets/images/screenshots/gameplay.png)
-![Losing](assets/images/screenshots/losing.png)
+![Main Menu](assets/images/screenshots/main_menu.jpg)
+![Gameplay](assets/images/screenshots/gameplay.jpg)
+![Losing](assets/images/screenshots/losing.jpg)
 
 
 
