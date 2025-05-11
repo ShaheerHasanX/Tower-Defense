@@ -68,6 +68,9 @@ Welcome to **Tower Defense**, a desktop strategy game developed in **C++** using
 For questions or feedback, feel free to reach out:
 
 📧 [shaheerhasanx@gmail.com](mailto:shaheerhasanx@gmail.com)
+📧 [@gmail.com](mailto:@gmail.com)
+📧 [muhib.pro.310@gmail.com](mailto:muhib.pro.310@gmail.com)
+
 
 ## 🖼️ Screenshots
 
@@ -76,6 +79,7 @@ You can embed screenshots or gameplay GIFs here:
 ```markdown
 ![Main Menu](assets/images/screenshots/main_menu.png)
 ![Gameplay](assets/images/screenshots/gameplay.png)
+![Losing](assets/images/screenshots/losing.png)
 
 
 
